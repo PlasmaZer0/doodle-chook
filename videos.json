@@ -1,0 +1,78 @@
+{
+ "channel": {
+  "name": "Doodle Chook",
+  "handle": "@DoodleChook",
+  "about": "Fun doodle videos",
+  "youtube": "https://www.youtube.com/@DoodleChook",
+  "logo": "brand/logo.png",
+  "banner": "brand/banner_v2.png"
+ },
+ "videos": [
+  {
+   "key": "avengers-short",
+   "kind": "short",
+   "title": "What If The Scarlet Witch Turned On Us?",
+   "published": null,
+   "duration": "0:43",
+   "youtube": null,
+   "credits": "what-if-the-avengers-turned-on-us",
+   "thumbnail": "projects/06-avengers-short/thumbnail/thumbnail_full.png",
+   "online": false
+  },
+  {
+   "key": "avengers",
+   "kind": "video",
+   "title": "What If The Avengers Turned On Us?",
+   "published": "2026-10-28T10:37:53Z",
+   "duration": "5:52",
+   "youtube": "https://www.youtube.com/watch?v=7cmWbk6mF0w",
+   "credits": "what-if-the-avengers-turned-on-us",
+   "thumbnail": "projects/05-avengers-turned-on-us/thumbnail/thumbnail_red_full.png",
+   "online": true
+  },
+  {
+   "key": "stormtroopers-short",
+   "kind": "short",
+   "title": "How Many ACCURATE Stormtroopers Would It Take To Beat Luke Skywalker?",
+   "published": "2026-10-25T01:00:10Z",
+   "duration": "0:50",
+   "youtube": "https://www.youtube.com/shorts/NJyHdLag_wk",
+   "credits": "how-many-accurate-stormtroopers-to-beat-each-jedi",
+   "thumbnail": "projects/04-stormtroopers-short/thumbnail/thumbnail_final_full.png",
+   "online": true
+  },
+  {
+   "key": "stormtroopers",
+   "kind": "video",
+   "title": "How Many ACCURATE Stormtroopers To Beat Each Jedi?",
+   "published": "2026-10-24T05:36:00Z",
+   "duration": "4:24",
+   "youtube": "https://www.youtube.com/watch?v=ubGlWALKQnE",
+   "credits": "how-many-accurate-stormtroopers-to-beat-each-jedi",
+   "thumbnail": "projects/03-accurate-stormtroopers/thumbnail/thumbnail_final_full.png",
+   "online": true
+  },
+  {
+   "key": "chickens-short",
+   "kind": "short",
+   "title": "How Many Chickens To Kill You?",
+   "published": "2026-10-23T00:36:20Z",
+   "duration": "0:56",
+   "youtube": "https://www.youtube.com/shorts/HNxkWp6r6VA",
+   "credits": "how-many-chickens-would-it-take-to-kill-you",
+   "thumbnail": "projects/02-chickens-short/thumbnail/thumbnail_final_full.png",
+   "online": true
+  },
+  {
+   "key": "chickens",
+   "kind": "video",
+   "title": "How Many Chickens To Kill You?",
+   "published": "2026-10-22T09:26:45Z",
+   "duration": "5:43",
+   "youtube": "https://www.youtube.com/watch?v=_0IUa87Fdlw",
+   "credits": "how-many-chickens-would-it-take-to-kill-you",
+   "thumbnail": "projects/01-how-many-chickens/thumbnail/thumbnail_final_full.png",
+   "online": true
+  }
+ ]
+}
