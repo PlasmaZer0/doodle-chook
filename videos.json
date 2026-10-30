@@ -9,6 +9,17 @@
  },
  "videos": [
   {
+   "key": "infinity-stones",
+   "kind": "video",
+   "title": "How Many Humans To Beat Each Infinity Stone?",
+   "published": "2026-10-30T07:11:37Z",
+   "duration": "5:17",
+   "youtube": "https://www.youtube.com/watch?v=s5BikDzOhvk",
+   "credits": "how-many-humans-to-beat-each-infinity-stone",
+   "thumbnail": "projects/07-infinity-stones/thumbnail/thumbnail_v7.png",
+   "online": true
+  },
+  {
    "key": "avengers-short",
    "kind": "short",
    "title": "What If The Scarlet Witch Turned On Us?",
