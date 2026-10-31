@@ -9,6 +9,17 @@
  },
  "videos": [
   {
+   "key": "infinity-stones-short",
+   "kind": "short",
+   "title": "How Many Humans To Beat The Infinity Gauntlet?",
+   "published": "2026-10-31T01:00:34Z",
+   "duration": "0:53",
+   "youtube": "https://www.youtube.com/shorts/SAwvNcUllEU",
+   "credits": "how-many-humans-to-beat-each-infinity-stone",
+   "thumbnail": "projects/08-infinity-stones-short/thumbnail/thumbnail_final_full.png",
+   "online": true
+  },
+  {
    "key": "infinity-stones",
    "kind": "video",
    "title": "How Many Humans To Beat Each Infinity Stone?",
