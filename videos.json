@@ -9,6 +9,17 @@
  },
  "videos": [
   {
+   "key": "chickens-avengers",
+   "kind": "video",
+   "title": "How Many Chickens To Beat Each Avenger?",
+   "published": "2026-11-05T01:16:35Z",
+   "duration": "4:42",
+   "youtube": "https://www.youtube.com/watch?v=l-5oLYT3qPY",
+   "credits": "how-many-chickens-to-beat-each-avenger",
+   "thumbnail": "projects/09-chickens-avengers/thumbnail/thumbnail_final_full.png",
+   "online": true
+  },
+  {
    "key": "infinity-stones-short",
    "kind": "short",
    "title": "How Many Humans To Beat The Infinity Gauntlet?",
