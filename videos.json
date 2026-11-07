@@ -9,6 +9,17 @@
  },
  "videos": [
   {
+   "key": "chickens-hulk-short",
+   "kind": "short",
+   "title": "How Many Chickens To Beat the Hulk?",
+   "published": "2026-11-07T10:14:16Z",
+   "duration": "0:48",
+   "youtube": "https://www.youtube.com/shorts/ow5OlFooBcw",
+   "credits": "how-many-chickens-to-beat-each-avenger",
+   "thumbnail": "projects/10-chickens-hulk-short/review/youtube_frame_34.25.png",
+   "online": true
+  },
+  {
    "key": "chickens-avengers",
    "kind": "video",
    "title": "How Many Chickens To Beat Each Avenger?",
