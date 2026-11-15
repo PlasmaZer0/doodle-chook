@@ -9,6 +9,17 @@
  },
  "videos": [
   {
+   "key": "doom-won-short",
+   "kind": "short",
+   "title": "What If Doctor Doom Won?",
+   "published": "2026-11-16T01:00:00Z",
+   "duration": "0:50",
+   "youtube": "https://www.youtube.com/shorts/yEOERFzr7gI",
+   "credits": "what-if-every-marvel-villain-won",
+   "thumbnail": "projects/12-doom-won-short/thumbnail/thumbnail_final_full.png",
+   "online": true
+  },
+  {
    "key": "villains-won",
    "kind": "video",
    "title": "What If Every Marvel Villain Won?",
