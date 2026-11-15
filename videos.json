@@ -9,6 +9,17 @@
  },
  "videos": [
   {
+   "key": "villains-won",
+   "kind": "video",
+   "title": "What If Every Marvel Villain Won?",
+   "published": "2026-11-15T03:39:22Z",
+   "duration": "4:55",
+   "youtube": "https://www.youtube.com/watch?v=q9l6jWnU3C4",
+   "credits": "what-if-every-marvel-villain-won",
+   "thumbnail": "projects/11-villains-won/thumbnail/thumbnail_final_v2_full.png",
+   "online": true
+  },
+  {
    "key": "chickens-hulk-short",
    "kind": "short",
    "title": "How Many Chickens To Beat the Hulk?",
