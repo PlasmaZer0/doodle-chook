@@ -9,6 +9,17 @@
  },
  "videos": [
   {
+   "key": "chickens-sith",
+   "kind": "video",
+   "title": "How Many Chickens To Beat Each Sith?",
+   "published": "2026-11-18T11:03:12Z",
+   "duration": "4:51",
+   "youtube": "https://www.youtube.com/watch?v=SYJprTDOJUw",
+   "credits": "how-many-chickens-to-beat-each-sith",
+   "thumbnail": "projects/15-chickens-sith/thumbnail/thumbnail_final_v2_full.png",
+   "online": true
+  },
+  {
    "key": "doom-won-short",
    "kind": "short",
    "title": "What If Doctor Doom Won?",
