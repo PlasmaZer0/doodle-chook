@@ -9,6 +9,17 @@
  },
  "videos": [
   {
+   "key": "chickens-villains",
+   "kind": "video",
+   "title": "How Many Chickens To Beat Each MCU Villain?",
+   "published": "2026-11-19T22:14:51Z",
+   "duration": "5:19",
+   "youtube": "https://www.youtube.com/watch?v=_M_ADrhwHTY",
+   "credits": "how-many-chickens-to-beat-each-marvel-villain",
+   "thumbnail": "projects/17-chickens-villains/thumbnail/thumbnail_final_v3_full.png",
+   "online": true
+  },
+  {
    "key": "chickens-vader-short",
    "kind": "short",
    "title": "How Many Chickens To Beat Darth Vader?",
