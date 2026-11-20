@@ -9,6 +9,17 @@
  },
  "videos": [
   {
+   "key": "chickens-doom-short",
+   "kind": "short",
+   "title": "How Many Chickens To Beat Doctor Doom?",
+   "published": "2026-11-20T09:00:00Z",
+   "duration": "0:51",
+   "youtube": "https://www.youtube.com/shorts/M-arWukjD3Y",
+   "credits": "how-many-chickens-to-beat-each-marvel-villain",
+   "thumbnail": "projects/18-chickens-doom-short/thumbnail/thumbnail_final_full.png",
+   "online": true
+  },
+  {
    "key": "chickens-villains",
    "kind": "video",
    "title": "How Many Chickens To Beat Each MCU Villain?",
