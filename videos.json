@@ -9,6 +9,17 @@
  },
  "videos": [
   {
+   "key": "chickens-fantastic-four",
+   "kind": "video",
+   "title": "How Many Chickens To Beat The Fantastic Four?",
+   "published": "2026-11-22T01:00:00Z",
+   "duration": "4:35",
+   "youtube": "https://www.youtube.com/watch?v=dIwWLqmu9o0",
+   "credits": "how-many-chickens-to-beat-the-fantastic-four",
+   "thumbnail": "projects/19-chickens-fantastic-four/thumbnail/thumbnail_final_full.png",
+   "online": true
+  },
+  {
    "key": "chickens-doom-short",
    "kind": "short",
    "title": "How Many Chickens To Beat Doctor Doom?",
