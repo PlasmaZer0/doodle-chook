@@ -9,10 +9,21 @@
  },
  "videos": [
   {
+   "key": "chickens-surfer-short",
+   "kind": "short",
+   "title": "How Many Chickens To Beat The Silver surfer?",
+   "published": "2026-11-22T05:12:14Z",
+   "duration": "0:46",
+   "youtube": "https://www.youtube.com/shorts/VTSWqR_3zrs",
+   "credits": "how-many-chickens-to-beat-the-fantastic-four",
+   "thumbnail": "projects/20-chickens-surfer-short/thumbnail/thumbnail_final_full.png",
+   "online": true
+  },
+  {
    "key": "chickens-fantastic-four",
    "kind": "video",
    "title": "How Many Chickens To Beat The Fantastic Four?",
-   "published": "2026-11-22T01:00:00Z",
+   "published": "2026-11-22T00:01:27Z",
    "duration": "4:35",
    "youtube": "https://www.youtube.com/watch?v=dIwWLqmu9o0",
    "credits": "how-many-chickens-to-beat-the-fantastic-four",
