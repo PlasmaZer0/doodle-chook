@@ -9,6 +9,17 @@
  },
  "videos": [
   {
+   "key": "chickens-x-men",
+   "kind": "video",
+   "title": "How Many Chickens To Beat Each X-Men?",
+   "published": "2026-11-24T11:07:59Z",
+   "duration": "4:46",
+   "youtube": "https://www.youtube.com/watch?v=cLLKzS0Z0Ag",
+   "credits": "how-many-chickens-to-beat-each-x-man",
+   "thumbnail": "projects/21-chickens-x-men/thumbnail/thumbnail_final_full.png",
+   "online": true
+  },
+  {
    "key": "chickens-surfer-short",
    "kind": "short",
    "title": "How Many Chickens To Beat The Silver surfer?",
