@@ -9,6 +9,17 @@
  },
  "videos": [
   {
+   "key": "chickens-magneto-short",
+   "kind": "short",
+   "title": "How Many Chickens To Beat Magneto?",
+   "published": "2026-11-25T06:46:30Z",
+   "duration": "0:46",
+   "youtube": "https://www.youtube.com/shorts/suhcFtcRU-k",
+   "credits": "how-many-chickens-to-beat-each-x-man",
+   "thumbnail": "projects/22-chickens-magneto-short/thumbnail/thumbnail_final_full.png",
+   "online": true
+  },
+  {
    "key": "chickens-x-men",
    "kind": "video",
    "title": "How Many Chickens To Beat Each X-Men?",
