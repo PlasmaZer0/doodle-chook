@@ -9,6 +9,17 @@
  },
  "videos": [
   {
+   "key": "chickens-gods",
+   "kind": "video",
+   "title": "How Many Chickens To Beat Each MCU God?",
+   "published": "2026-11-26T08:29:11Z",
+   "duration": "4:45",
+   "youtube": "https://www.youtube.com/watch?v=Gj_BUUPWFG8",
+   "credits": "how-many-chickens-to-beat-each-mcu-god",
+   "thumbnail": "projects/23-chickens-gods/thumbnail/thumbnail_final_v3_full.png",
+   "online": true
+  },
+  {
    "key": "chickens-magneto-short",
    "kind": "short",
    "title": "How Many Chickens To Beat Magneto?",
