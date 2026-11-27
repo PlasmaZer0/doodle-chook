@@ -9,6 +9,17 @@
  },
  "videos": [
   {
+   "key": "chickens-hela-short",
+   "kind": "short",
+   "title": "How Many Chickens To Beat Hela?",
+   "published": "2026-11-27T10:07:43Z",
+   "duration": "0:46",
+   "youtube": "https://www.youtube.com/shorts/7pGCT6tw2RI",
+   "credits": "how-many-chickens-to-beat-each-mcu-god",
+   "thumbnail": "projects/24-chickens-hela-short/thumbnail/thumbnail_final_full.png",
+   "online": true
+  },
+  {
    "key": "chickens-gods",
    "kind": "video",
    "title": "How Many Chickens To Beat Each MCU God?",
